@@ -1,7 +1,7 @@
 # 🌐 Single Zone VPC Webserver
 
 ## Architecture
-- Custom VPC (10.0.0.0/16)
+- Custom VPC (10.0.0.0/24)
 - Public Subnet with Internet Gateway
 - Apache Webserver on EC2
 - Security Groups for HTTP/SSH
